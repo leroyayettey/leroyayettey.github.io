@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leroy-ayettey-react/static/css/main.975ee8a5.css",
+    "main.js": "/leroy-ayettey-react/static/js/main.7aef6fff.js",
+    "index.html": "/leroy-ayettey-react/index.html",
+    "main.975ee8a5.css.map": "/leroy-ayettey-react/static/css/main.975ee8a5.css.map",
+    "main.7aef6fff.js.map": "/leroy-ayettey-react/static/js/main.7aef6fff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975ee8a5.css",
+    "static/js/main.7aef6fff.js"
+  ]
+}
