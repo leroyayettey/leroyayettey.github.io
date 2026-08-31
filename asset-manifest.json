@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/leroy-ayettey-react/static/css/main.975ee8a5.css",
-    "main.js": "/leroy-ayettey-react/static/js/main.c7d971c6.js",
+    "main.js": "/leroy-ayettey-react/static/js/main.7735110c.js",
     "index.html": "/leroy-ayettey-react/index.html",
     "main.975ee8a5.css.map": "/leroy-ayettey-react/static/css/main.975ee8a5.css.map",
-    "main.c7d971c6.js.map": "/leroy-ayettey-react/static/js/main.c7d971c6.js.map"
+    "main.7735110c.js.map": "/leroy-ayettey-react/static/js/main.7735110c.js.map"
   },
   "entrypoints": [
     "static/css/main.975ee8a5.css",
-    "static/js/main.c7d971c6.js"
+    "static/js/main.7735110c.js"
   ]
 }
